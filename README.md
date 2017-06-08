@@ -7,3 +7,6 @@
 
 ### 2017-06-01
 + Github, MarkDown Test
+
+### 2017-06-08
++ Raspbeery pi의 웹서버에 Django 프로젝트 Clone
